@@ -1,4 +1,4 @@
-# IMAGE PIXEL SORT BUCKET SORT USING IMAGE PIXElS
+# IMAGE PIXEL SORT (BUCKET SORT MODIFICATION) USING IMAGE PIXELS
 
 ## Using Image to sort the array for recognisation of partnership model where even with parallel process and GPU rendering can sort out the array utilizing the common process two different process combines together in this method where one is processing the image just like in games where he needs to do the analysis which makes uses of the images and this algorithm utilizes it
 
